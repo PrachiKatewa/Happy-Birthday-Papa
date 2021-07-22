@@ -1,0 +1,23 @@
+* {
+    background-color: mediumorchid;
+    margin: 0;
+    padding: 0;
+}
+.piu{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.t1{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.t2{
+    margin : 0 auto;
+    width : 1000px;
+}
+
+video{
+    width: 50%;
+}
